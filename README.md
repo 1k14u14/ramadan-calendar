@@ -37,7 +37,7 @@ The app is responsive, supports dark mode, and works across devices.
 
 ```bash
 git clone https://github.com/1k14u14/ramadan-calendar.git
-cd your-repo-name
+cd ramadan-calendar
 ```
 
 ### 2️⃣ Install dependencies
