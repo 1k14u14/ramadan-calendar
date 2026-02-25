@@ -3,7 +3,7 @@
 A public web application built with React that helps Muslims view **Ramadan dates, daily prayer times, Hijri & Gregorian calendars**, and a countdown timer.  
 The app is responsive, supports dark mode, and works across devices.
 
-🔗 **Live Demo:** https://ramadan-calendar-j1dgaeynn-zikri-aulias-projects.vercel.app
+🔗 **Live Demo:** https://ramadan-calendar-mu.vercel.app/
 
 ---
 
