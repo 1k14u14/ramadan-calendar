@@ -49,10 +49,9 @@ npm install
 ```bash
 npm run dev
 ```
+Open: http://localhost:5173
 
 ---
-
-Open: http://localhost:5173
 
 ## 🧪 Running Tests
 ```bash
